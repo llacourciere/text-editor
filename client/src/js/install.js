@@ -1,11 +1,6 @@
 const butInstall = document.getElementById('buttonInstall');
 
 // Logic for installing the PWA
-if ('serviceWorker' in navigator) {
-    window.addEventListener('load', ()=> {
-        navigator.serviceWorker.register('service-worker.js')
-    })
-} 
 
 // TODO: Add an event handler to the `beforeinstallprompt` event
 window.addEventListener('beforeinstallprompt', (event) => {
