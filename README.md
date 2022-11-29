@@ -31,4 +31,4 @@ None
 ## Questions
  <p>If you have any questions email me: lacourcierela@gmail.com</p>
  <a href="https://www.github.com/llacourciere/" target="_blank">Github</a>
- <a href="https://www.github.com/llacourciere/" target="_blank">Heroku App</a>
+ <a href="https://rocky-earth-21421.herokuapp.com/ " target="_blank">Heroku App</a>
